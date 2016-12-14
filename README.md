@@ -1,6 +1,8 @@
 # Strategy_Game
 Small 2 player, turn based strategy game project made for a data structures project.
 
+!!DON'T RESIZE WINDOW!!
+
 Turn order show what unit on the field is currently acting. There is a move phase and attack phase for each unit's turn. Use the arrow keys to move a unit during the move phase (can only move to an empty space), and to select an attack direcion during the attack phase. Player 1 are the upper case letters, while player 2 is lower case.
 
 A Warrior (W or w) has an attack range of 1.  Their attack randomly does 7 to 14.
